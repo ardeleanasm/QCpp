@@ -21,6 +21,7 @@ macro(run_conan)
     docopt.cpp/0.6.2
     fmt/6.2.0
     spdlog/1.5.0
+    eigen/3.4.0
     OPTIONS
     ${CONAN_EXTRA_OPTIONS}
     BASIC_SETUP
